@@ -1,1 +1,1 @@
-My first raedme
+Read Me
